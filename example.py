@@ -1,0 +1,2 @@
+abobuse = "abobuse"
+print(abobuse)
